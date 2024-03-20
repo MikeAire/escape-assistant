@@ -14,7 +14,7 @@ from .helpers.deprecation import (
     dir_with_deprecated_constants,
 )
 
-APPLICATION_NAME: Final = "HomeAssistant"
+APPLICATION_NAME: Final = "EscapeAssistant"
 MAJOR_VERSION: Final = 2024
 MINOR_VERSION: Final = 4
 PATCH_VERSION: Final = "0.dev0"
